@@ -7,9 +7,9 @@ from urllib.parse import urlparse
 
 logger = logging.getLogger(__name__)
 
-# ============================================================
+# ------------------------------------------------------------
 # 🧩 EXPRESIONES REGULARES
-# ============================================================
+# ------------------------------------------------------------
 
 RE_PATENT_ID = re.compile(r"^P\d{7}$")                                # ID de patente que comienza con 'P' seguido de 7 dígitos
 RE_DATE_PAREN = re.compile(r"^\(\d{2}\.\d{2}\.\d{4}\)$")              # fechas en formato '(DD.MM.YYYY)'
@@ -21,9 +21,9 @@ RE_CLASS_DATE = re.compile(r"^\(\d{4}\.\d{2}\)$")                     # fechas d
 RE_SPANISH_PROVINCE_CODE = re.compile(r"^(0[1-9]|[1-4]\d|5[0-2])$")   # códigos de provincias españolas (01-52)
 
 
-# ============================================================
+# ------------------------------------------------------------
 # 🧠 FUNCIONES AUXILIARES
-# ============================================================
+# ------------------------------------------------------------
 
 def get_nested(data, path, default=None):
     """Obtiene un valor anidado de un dict mediante notación de puntos ('a.b.c')."""
@@ -70,9 +70,9 @@ def ensure_list(value):
     return [value]
 
 
-# ============================================================
+# ------------------------------------------------------------
 # 🧩 VALIDACIÓN DE UNA SOLA PATENTE
-# ============================================================
+# ------------------------------------------------------------
 
 def validate_single_patent(patent: Dict[str, Any]) -> Tuple[bool, List[str], List[str]]:
     """
@@ -255,9 +255,9 @@ def validate_single_patent(patent: Dict[str, Any]) -> Tuple[bool, List[str], Lis
     return (len(errors) == 0), errors, warnings
 
 
-# ============================================================
+# ------------------------------------------------------------
 # 📦 VALIDACIÓN DE UN LOTE COMPLETO
-# ============================================================
+# ------------------------------------------------------------
 
 def validate_patent_batch(batch: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
