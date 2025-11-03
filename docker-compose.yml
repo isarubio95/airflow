@@ -54,7 +54,8 @@ services:
       AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "False"
       AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
       AIRFLOW_CONN_OPENSEARCH_DEFAULT: "opensearch://${OPENSEARCH_USER}:${OPENSEARCH_PASS}@${OPENSEARCH_HOST}:${OPENSEARCH_PORT}?use_ssl=true&verify_certs=false"
-      _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-opensearch"
+      AIRFLOW_CONN_MONGO_DEFAULT: ${MONGO_URI}
+      _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-opensearch motor==3.5.1 pymongo[srv]==4.10"
       S3_BUCKET: ${S3_BUCKET}
       # Parámetros de rendimiento del scheduler
       AIRFLOW__SCHEDULER__MAX_THREADS: 8
@@ -75,7 +76,7 @@ services:
       bash -eo pipefail -lc "
       mkdir -p dags logs plugins;
       airflow db check;
-      airflow scheduler & airflow dag-processor & exec airflow api-server --port 8080
+      airflow scheduler & airflow dag-processor & airflow triggerer & exec airflow api-server --port 8080
       "
 
   minio:
