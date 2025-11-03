@@ -3,7 +3,6 @@ __pycache__/
 dags/__pycache__/
 .vscode/
 data/
-plugins/
 .env
 superset_home/
 patente_invenes.json

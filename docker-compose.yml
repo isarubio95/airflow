@@ -3,6 +3,8 @@ services:
     image: postgres:16
     container_name: dialnet-postgresql-airflow
     restart: unless-stopped
+    networks:
+      - opensearch-net
     environment:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
@@ -24,6 +26,8 @@ services:
     depends_on:
       postgres:
         condition: service_healthy
+    networks:
+      - opensearch-net
     env_file: .env
     environment:
       AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
@@ -44,6 +48,8 @@ services:
       airflow-init:
         condition: service_completed_successfully
     restart: unless-stopped
+    networks:
+      - opensearch-net
     env_file: .env
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
@@ -55,7 +61,7 @@ services:
       AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
       AIRFLOW_CONN_OPENSEARCH_DEFAULT: "opensearch://${OPENSEARCH_USER}:${OPENSEARCH_PASS}@${OPENSEARCH_HOST}:${OPENSEARCH_PORT}?use_ssl=true&verify_certs=false"
       AIRFLOW_CONN_MONGO_DEFAULT: ${MONGO_URI}
-      _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-opensearch motor==3.5.1 pymongo[srv]==4.10"
+      _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-opensearch motor==3.7.1 pymongo[srv]==4.10"
       S3_BUCKET: ${S3_BUCKET}
       # Parámetros de rendimiento del scheduler
       AIRFLOW__SCHEDULER__MAX_THREADS: 8
@@ -122,3 +128,8 @@ volumes:
   pgdata_airflow:
     name: pgdata_airflow
   logs_airflow: {}
+
+networks:
+  opensearch-net:
+    external: true
+    name: dialnet-mongodb_opensearch-net
