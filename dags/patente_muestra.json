@@ -364,5 +364,2288 @@
             "resumen": "ESCOBILLA DE LIMPIAPARABRISAS CON UN BASTIDOR PORTANTE DE VARIOS ELEMENTOS QUE SIRVE PARA LIMPIAR PARABRISAS EN VEHICULOS MOTORIZADOS. LA ESCOBILLA COMPRENDE UN BASTIDOR PORTANTE DE VARIOS ELEMENTOS AL QUE ESTA ARTICULADO UN BRAZO DE ESCOBILLA ACCIONADO Y QUE CON PARES DE GARRAS DISPUESTOS UNOS TRAS OTROS EN PARTES DEL BASTIDOR AGARRAN A UNA REGLETA DORSAL DE UNA REGLETA LIMPIADORA ALARGADA QUE ES DE UN MATERIAL SINTETICO, ARRIMADA CON UNA FALDILLA LIMPIADORA AL CRISTAL A LIMPIAR, ENGRANANDO LAS GARRAS DE CADA UNO DE LOS PARES DE GARRAS EN RANURAS LONGITUDINALES SITUADAS UNA FRENTE A OTRA, DISPUESTAS EN LOS LADOS LONGITUDINALES DE LA REGLETA DORSAL, Y ESTANDO DISPUESTO EN LA REGLETA DORSAL UN ESCOTE LONGITUDINAL PARA EL ALOJAMIENTO DE UNA TIRA DE REFUERZO ELASTICA CUYA LONGITUD CORRESPONDE APROXIMADAMENTE A LA LONGITUD DE LA REGLETA DORSAL QUE SOBRESALE CON SUS EXTREMOS DE LOS PARES DE GARRAS EXTERIORES."
         },
         "version": 0
+    },
+    {
+        "_id": "P9402493",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:11.258Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-29T14:29:03.533Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1994/P9402493.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/61/ES-2116180_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/61/ES-2116180_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "A",
+                            "numero": "EP0560253",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0520403",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "FR2668968",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0555192",
+                            "tipo": "A1"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "B23B27/14",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "B23B51/00",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B23B27/145",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B51/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B23B2251/50",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2222/28",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2226/125",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2226/315",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B23B51/00",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B27/145",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B23B2222/28",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2251/50",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2226/125",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B23B2226/315",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/402/P9402493.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "BASTECK, ANDREAS",
+                            "nain": "DE",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": {
+                    "prioridad": [
+                        "DE19934341503 (06.12.1993)"
+                    ]
+                },
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(01.02.1999)",
+                                "fpub": "(01.03.1999)",
+                                "npub": "2116180",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/11/61/ES-2116180_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(01.07.1998)",
+                            "npub": "2116180",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/11/61/ES-2116180_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9402493",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "EBINGER STRASSE 115 D-72474 WINTERLINGEN",
+                            "nare": "DE",
+                            "orden": "1",
+                            "prov": null,
+                            "soli": "AUGUST BECK GMBH & CO."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(05.12.1994)",
+                            "nsol": "P9402493"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "Cutting tools",
+                    "titu_es": "DISPOSITIVO PARA EL ACABADO DE PRECISION DE TALADROS."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_resu_es": null,
+                "trad_auto_titu": "N"
+            },
+            "resumen": "UN DISPOSITIVO PARA EL ACABADO DE PRECISION DE TALADROS, COMO POR EJEMPLO UN ESCARIADOR O UNA PLANCHA DE CUCHILLA (31) PARA ELLO, TIENE UNA ARISTA CORTANTE QUE ESTA DIVIDIDA EN UN FILO PRINCIPAL Y UN FILO SECUNDARIO (54). EN EL CUERPO BASE (32) ESTA INSERTADO UN ELEMENTO (33, 34) QUE SE COMPONE DE UN SOPORTE DE METAL DURO (43) Y UNA ESTRUCTURA CRISTALINA DE MAYOR DUREZA (48) SINTERIZADA ENCIMA, COMO DIAMANTE POLICRISTALINO PKD O NITRURO DE BORO CUBICO CBN. EN MEDIO SE ENCUENTRA UNA ZONA DE PASO (52). EL ELEMENTO A MODO DE SANDWICH (33, 34) ESTA DISPUESTO DE TAL MODO QUE EL FILO SECUNDARIO (54) EN ZONAS PARCIALES CONSECUTIVAS ESTA FORMADO DE LA ESTRUCTURA CRISTALINA MUY DURA (48), LA ZONA DE PASO MENOS DURA (52), EL AUN MENOS DURO SOPORTE DE METAL DURO (43) Y POR ULTIMO DEL METAL DURO RELATIVAMENTE BLANDO DEL CUERPO BASE (32)."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9700108",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:16.100Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:07:08.844Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1997/P9700108.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/89/ES-2128965_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/89/ES-2128965_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "E",
+                            "numero": "WO9714118",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "E",
+                            "numero": "WO9714122",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4845636",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0120771",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4902881",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "WO9306546",
+                            "tipo": "A1"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "G07F7/08",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": null
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/700/P9700108.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "LOPEZ DE LETONA GOICOECHEA, JOSE MANUEL",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": null,
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(01.12.1999)",
+                                "fpub": "(01.04.2000)",
+                                "npub": "2128965",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/12/89/ES-2128965_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.05.1999)",
+                            "npub": "2128965",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/12/89/ES-2128965_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9700108",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "CAPITAN MENDIZABAL, 32, 7D,SANTURCE 48980 VIZCAYA",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "48",
+                            "soli": "LOPEZ DE LETONA GOICOECHEA, JOSE MANUEL"
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(21.01.1997)",
+                            "nsol": "P9700108"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "System for public access to the Internet with method of automatic operation and direct access",
+                    "titu_es": "SISTEMA DE ACCESO PUBLICO A INTERNET CON METODO DE FUNCIONAMIENTO AUTOMATICO Y ACCESO DIRECTO."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "Sistema de acceso público a Internet con Método de Funcionamiento Automático y Acceso Directo. Sistema compuesto por dispositivos para la transmisión de señal y acceso a la red Internet (1) que operan mediante un método de funcionamiento automático para proporcionar acceso directo a Internet (2). El sistema ejecuta un proceso interactivo(14) que recibe señales de los procesos de detección (15) y cobro (16), permitiendo al usuario seleccionar de modo interactivo los servicios ofrecidos por el sistema y acceder directamente (17) a Internet (24). El sistema calcula tarifas y tiempos de conexión (18), cortando las comunicaciones automáticamente (21) cuando el tiempo de conexión se agota(19) yo el sistema no registra actividad (20). El sistema realiza cálculos estadísticos sobre utilización (22) y puede ser configurado y actualizado (23) desde un ordenador remoto (3). El sistema está diseñado para utilización en lugares públicos donde el número de dispositivos incorporados en el sistema puede variar de acuerdo con los requerimientos."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9402175",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:19.277Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:01:52.074Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1994/P9402175.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/75/ES-2117513_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/75/ES-2117513_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "A",
+                            "numero": "EP0592112",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0128110",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "GB2177032",
+                            "tipo": "A"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "B24B19/14",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "B24B41/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "B24B41/04",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "F01D11/08",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B24B19/14",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/04",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F01D11/08",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B19/14",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "F01D11/08",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/04",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "B24B19/14",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/00",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "B24B41/04",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "F01D11/08",
+                                    "oficinageneradora": "EP, US"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/402/P9402175.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "AZPEITIA DE DIEGO, ANGEL RAMON",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": null,
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(08.02.1999)",
+                                "fpub": "(16.03.1999)",
+                                "npub": "2117513",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/11/75/ES-2117513_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(01.08.1998)",
+                            "npub": "2117513",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/11/75/ES-2117513_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9402175",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "POL. INDUSTRIA ARRIAGA S/N ELGOIBAR GUIPUZCOA",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "20",
+                            "soli": "DANOBAT S.COOP."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(18.10.1994)",
+                            "nsol": "P9402175"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "Machine for grinding rotor blades provided with a rotor supporting device",
+                    "titu_es": "MEJORAS EN MAQUINAS RECTIFICADORAS DE ALTA VELOCIDAD PARA LOS ALABES DE ROTORES DE MOTORES DE REACCION Y SIMILARES."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "MEJORAS EN MAQUINAS RECTIFICADORAS DE ALTA VELOCIDAD PARA LOS ALABES DE ROTORES DE MOTORES DE REACCION Y SIMILARES, EN QUE LOS MEDIOS SUSTENTADORES DEL ROTOR O PIEZA (4) SON UN PEDESTAL EN PUENTE (5-6-7) FORMADO POR UN ARMAZON (5) Y SENDOS PEDESTALES DE PUNTO (6) Y CONTRAPUNTO (7) QUE POSEEN CORRESPONDIENTES ARTICULACIONES ELASTICAS (8 Y 9) QUE TIENEN ASOCIADOS MEDIOS DE BLOQUEO SELECTIVO ACTUADOS EN COMBINACION CON EL CONTROL PARA CONDICIONAR UN ESTADO DE \"NO BLOQUEO\" DURANTE MANIOBRAS DE EQUILIBRADO Y UN ESTADO DE \"BLOQUEO O RIGIDIZACION\" DURANTE EL TRABAJO DE RECTIFICADO. ASIMISMO ENTRE LA MESA DESPLAZABLE (10) Y LA BANCADA (11) EXISTEN APOYOS DESLIZANTES (12) CON MEDIOS DE BLOQUEO SELECTIVOS, PARA DETERMINAR UN ESTADO DE \"BLOQUEO O RIGIDIZACION\" MIENTRAS SE EFECTUA LA MANIOBRA DE EQUILIBRADO Y UN ESTADO DE \"NO BLOQUEO\" CUANDO SE REALIZA EL TRABAJO DE RECTIFICADO."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9401227",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:40:32.347Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:03:36.191Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1994/P9401227.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/54/ES-2115452_A1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/54/ES-2115452_B1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "X Y",
+                            "numero": "US1632360",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "Y A",
+                            "numero": "EP0332434",
+                            "tipo": "A2"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4892345",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "JPS63242747",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "DE1934289",
+                            "tipo": "A1"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "B60P3/03",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": null
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/401/P9401227.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "ALVAREZ MEZQUIRIZ, JESUS DAVID",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": null,
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(22.12.1998)",
+                                "fpub": "(16.02.1999)",
+                                "npub": "2115452",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/11/54/ES-2115452_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.06.1998)",
+                            "npub": "2115452",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/11/54/ES-2115452_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9401227",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "ANA TERESA, 41 URB. PLEYADES, 28023 MADRID",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "28",
+                            "soli": "ALVAREZ MEZQUIRIZ, JESUS DAVID"
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(06.06.1994)",
+                            "nsol": "P9401227"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "System for transporting money or valuables (securities)",
+                    "titu_es": "SISTEMA DE TRANSPORTE DE DINERO O VALORES."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "SISTEMA DE TRANSPORTE DE DINERO O VALORES QUE COMPRENDE UN VEHICULO (1) ESPECIALMENTE DISEÑADO AL EFECTO, CUYAS PAREDES LATERALES QUEDAN DEFINIDAS POR LOS FRENTES DE UNA SERIE DE CAJAS (2) PORTADORAS DE PARTES DE DINERO Y/O VALORES, EXTRAIBLES UNA A UNA Y CAPACES DE SUSTITUIR OTRA CAJA DE IGUAL CONFIGURACION SITUADA EN UN HUECO EXISTENTE A ESTE EFECTO EN LA OFICINA RECEPTORA DEL DINERO."
+        },
+        "version": 0
+    },
+    {
+        "_id": "PCT/AU1994/000085",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:38:36.464Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:08:25.814Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1994/P9450029.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/28/ES-2122837_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/28/ES-2122837_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "X A",
+                            "numero": "FR2374072",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "X",
+                            "numero": "FR2650818",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "ES8608134",
+                            "pdf": "/ES/0000/000/08/60/81/ES-8608134_A1.pdf",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0327430",
+                            "tipo": "A1"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "B01F23/10",
+                                    "fecha": "(2022.01)"
+                                },
+                                {
+                                    "clasificacion": "F17C5/00",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F17C5/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B01F23/12",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F17C2205/0142",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2205/0323",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2221/013",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2221/014",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2223/0153",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2227/0135",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2227/0393",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2250/032",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2265/025",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2270/05",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F17C5/00",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "B01F23/12",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F17C2270/05",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2221/013",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2221/014",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2250/032",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2265/025",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2205/0142",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2205/0323",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2223/0153",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2227/0135",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F17C2227/0393",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATPCT",
+                "fto4": null,
+                "imgresu": "/Resumen/PCT/AU1/994/000/PCTAU1994000085.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "HARTMANN, RUDOLF",
+                            "nain": "AU",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": {
+                    "prioridad": [
+                        "AU1993PL07502 (26.02.1993)"
+                    ]
+                },
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(20.05.1999)",
+                                "fpub": "(01.07.1999)",
+                                "npub": "2122837",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/12/28/ES-2122837_B1.pdf",
+                                "tipo": "B1"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(01.09.1994)",
+                                "npub": "9419614",
+                                "pais": "WO",
+                                "pdf": null,
+                                "tipo": "A1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.12.1998)",
+                            "npub": "2122837",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/12/28/ES-2122837_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "PCT/AU1994/000085",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "ROYAL DOMAIN CENTRE, 380 ST. KILDA ROADMELBOURNE, V",
+                            "nare": "AU",
+                            "orden": "1",
+                            "prov": null,
+                            "soli": "AIR LIQUIDE AUSTRALIA LIMITED"
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(25.02.1994)",
+                            "nsol": "PCT/AU1994/000085"
+                        },
+                        {
+                            "fsol": "(25.02.1994)",
+                            "nsol": "P9450029"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "GAS MIXTURES",
+                    "titu_es": "MEZCLA GASEOSA Y PROCEDIMIENTO PARA PREPARARLA."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "MEZCLA GASEOSA Y UN PROCEDIMIENTO PARA PREPARARLA, SIENDO LA MEZCLA SUSTANCIALMENTE ESTABLE Y HOMOGENEA E INCLUYENDO MAS DE APROXIMADAMENTE 50% EN VOLUMEN DE UN GAS LICUABLE, CUYO PROCEDIMIENTO INCLUYE: DISPONER UNA FUENTE DE UN GAS LICUABLE, UNA FUENTE DE UN GAS PERMANENTE; Y UN RECIPIENTE PARA GAS: SUMINISTRAR EL GAS PERMANENTE AL RECIPIENTE PARA GAS; Y SUMINISTRAR EL GAS LICUABLE AL RECIPIENTE EN EL QUE SE INTRODUCE EL GAS LICUABLE A UNA TEMPERATURA ELEVADA Y/O A UNA VELOCIDAD ELEVADA, DE MANERA TAL QUE EL VOLUMEN FINAL DEL MISMO SEA MAYOR QUE APROXIMADAMENTE 50%."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9702055",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:38:54.325Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:06:49.546Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1997/P9702055.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/13/31/ES-2133115_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/13/31/ES-2133115_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "X",
+                            "numero": "EP0831384",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "X",
+                            "numero": "US5734590",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "X",
+                            "numero": "AU2144283",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4629604",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4603030",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0645148",
+                            "tipo": "A1"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "A61L9/03",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61L9/12",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "A61L9/035",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61L9/122",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61L9/125",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "A61L9/035",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61L9/122",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61L9/125",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/702/P9702055.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "PEREX AGORRETA, FRANCISCO J.",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": null,
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(23.12.1999)",
+                                "fpub": "(16.02.2000)",
+                                "npub": "2133115",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/13/31/ES-2133115_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.08.1999)",
+                            "npub": "2133115",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/13/31/ES-2133115_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9702055",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "AVDA. ALFONSO XIII, 151,MADRID 28016",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "28",
+                            "soli": "PEREX AGORRETA,FRANCISCO J."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(01.10.1997)",
+                            "nsol": "P9702055"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "DEVICE FOR REPRODUCING OR SYNTHETISING ODORS OR AROMAS",
+                    "titu_es": "DISPOSITIVO REPRODUCTOR O SINTETIZADOR DE OLORES Y AROMAS."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "Consiste en una cámara con un elevado número de alvéolos o pequeños compartimentos, según se ve en la figura (1), que que contienen cada uno de ellos un olor o aroma esencial que, obedeciendo unas instrucciones en forma de señales electrónicas codificadas, los liberan mediante unos émbolos o elementos capaces de proyectarlos a través de unos conductos (2), hacia una cámara mezcladora o sintetizadora (3) que los expulsa hacia el exterior (4), reproduciéndose el olor o aroma originario, que llegó codificado en señales electrónicas para poder ser olfateado por una persona (5)."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9402523",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:20.335Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:01:52.888Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1994/P9402523.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/75/ES-2117520_A1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/11/75/ES-2117520_B1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "A",
+                            "numero": "US4387804",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "ES2051313",
+                            "pdf": "/ES/0000/000/02/05/13/ES-2051313_T3.pdf",
+                            "tipo": "T3"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "GB1301501",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US3856144",
+                            "tipo": "A"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "A61J1/03",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "B65D75/34",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "B65D75/36",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": null
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/402/P9402523.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "ASPE PEREZ, LUIS",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        },
+                        {
+                            "drin": null,
+                            "inve": "PILAS REVILLA, JOSE ANTONIO",
+                            "nain": "ES",
+                            "orden": "2",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": {
+                    "prioridad": [
+                        "EP19930500164 (15.12.1993)"
+                    ]
+                },
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(12.01.1999)",
+                                "fpub": "(16.02.1999)",
+                                "npub": "2117520",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/11/75/ES-2117520_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(01.08.1998)",
+                            "npub": "2117520",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/11/75/ES-2117520_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9402523",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "DOCTOR SEVERO OCHOA, S/N (P.T.M.),TRES CANTOS 28760 MADRID",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "28",
+                            "soli": "GLAXO, S.A."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(12.12.1994)",
+                            "nsol": "P9402523"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "Container",
+                    "titu_es": "ENVASE."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "ENVASE. DISPOSITIVO DE ENVASADO DE COMPRIMIDOS, QUE COMPRENDE UNA BOLSA PARA CONTENER UN ENVASE DE LAMINA AL VACIO PARA UN COMPRIMIDO, POR LO MENOS, CUYA BOLSA TIENE UNA PRIMERA CARA Y UNA SEGUNDA CARA ENFRENTADAS UNIDAS POR UN BORDE, TENIENDO PRACTICADA CADA UNA DE LAS CARAS AL MENOS UN ORIFICIO QUE COMPLEMENTA CADA UNA DE LAS BURBUJAS DEL ENVASE DE LAMINA AL VACIO, TENIENDO LA BOLSA ASIMISMO FALDONES LATERALES UNIDOS A LOS BORDES ENFRENTADOS DE UNA DE LAS CITADAS CARAS ENFRENTADAS, UNIENDOSE LOS FALDONES LATERALES PARA FORMAR UNA TERCERA CARA ENTRE DICHAS PRIMERA Y SEGUNDA CARAS ENFRENTADAS, Y COLABORANDO ENTRE SI PARA FORMAR AL MENOS UN ORIFICIO, COMPLEMENTANDO CADA UNA DE LAS BURBUJAS EN EL ENVASE DE LAMINA AL VACIO, ALINEANDOSE MUTUAMENTE CADA ORIFICIO QUE, POR LO MENOS, EXISTE EN CADA UNA DE LAS CARAS, DE FORMA QUE LOS COMPRIMIDOS PUEDAN ADMINISTRARSE A TRAVES DE LOS ORIFICIOS CUANDO QUEDA SUJETO EL ENVASE DE LAMINA AL VACIO EN LA BOLSA."
+        },
+        "version": 0
+    },
+    {
+        "_id": "PCT/EP1997/001800",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:00.203Z"
+        },
+        "fechaModi": {
+            "$date": "2021-07-15T12:39:00.203Z"
+        },
+        "patente": {
+            "images": [],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/17/85/ES-2178510_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/21/61/ES-2216141_T3.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/17/85/ES-2178510_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": {
+                    "certificado": {
+                        "ccpp": "C200400019",
+                        "dccp": "ACIDO MICOFENOLICO (MYFORTIC)."
+                    }
+                },
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "A",
+                            "numero": "GB1203328",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US3705946",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "WO9426266",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "BE704326",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "LNP",
+                            "tipo": null
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "LNP",
+                            "tipo": null
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "A61K9/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K9/22",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K9/28",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K9/48",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K31/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K31/343",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K31/365",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K38/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K38/13",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K39/395",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61K45/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61P31/12",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61P35/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61P37/00",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "A61P37/06",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "A61K9/4891",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K31/365",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K38/13",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P29/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P31/12",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P35/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P37/00",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P37/06",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K31/365",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "Y10S514/885",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/96",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/962",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/968",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K9/48",
+                                    "fecha": null,
+                                    "oficinageneradora": "RU"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K31/343",
+                                    "fecha": null,
+                                    "oficinageneradora": "RU"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "A61K38/13",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P29/00",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P31/12",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P35/00",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P37/00",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61P37/06",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K31/365",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K9/4891",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        },
+                        "cpcn": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "A61K9/48",
+                                    "oficinageneradora": "RU"
+                                },
+                                {
+                                    "clasificacioncpc": "A61K31/343",
+                                    "oficinageneradora": "RU"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/96",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/885",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/962",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "Y10S514/968",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATPCT",
+                "fto4": "(16.09.2000)",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "HAEBERLIN, BARBARA",
+                            "nain": "CH",
+                            "orden": "1",
+                            "prin": null
+                        },
+                        {
+                            "drin": null,
+                            "inve": "MAK, CHING, PONG",
+                            "nain": "CH",
+                            "orden": "2",
+                            "prin": null
+                        },
+                        {
+                            "drin": null,
+                            "inve": "MEINZER, ARMIN",
+                            "nain": "DE",
+                            "orden": "3",
+                            "prin": null
+                        },
+                        {
+                            "drin": null,
+                            "inve": "VONDERSCHER, JACKY",
+                            "nain": "FR",
+                            "orden": "4",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": {
+                    "prioridad": [
+                        "GB19960022028 (24.10.1996)",
+                        "GB19960007564 (12.04.1996)"
+                    ]
+                },
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(15.07.2004)",
+                                "fpub": "(16.08.2004)",
+                                "npub": "2178510",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/17/85/ES-2178510_B1.pdf",
+                                "tipo": "B1"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(16.10.2004)",
+                                "npub": "2216141",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/21/61/ES-2216141_T3.pdf",
+                                "tipo": "T3"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(27.01.1999)",
+                                "npub": "0892640",
+                                "pais": "EP",
+                                "pdf": null,
+                                "tipo": "A2"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(11.02.2004)",
+                                "npub": "0892640",
+                                "pais": "EP",
+                                "pdf": null,
+                                "tipo": "B1"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(23.10.1997)",
+                                "npub": "9738689",
+                                "pais": "WO",
+                                "pdf": null,
+                                "tipo": "A2"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(04.12.1997)",
+                                "npub": "9738689",
+                                "pais": "WO",
+                                "pdf": null,
+                                "tipo": "A3"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.12.2002)",
+                            "npub": "2178510",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/17/85/ES-2178510_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "PCT/EP1997/001800",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "SCHWARZWALDALLEE 215, 4058 BASEL",
+                            "nare": "CH",
+                            "orden": "1",
+                            "prov": null,
+                            "soli": "NOVARTIS AG"
+                        },
+                        {
+                            "dire": null,
+                            "nare": null,
+                            "orden": "2",
+                            "prov": null,
+                            "soli": "NOVARTIS-ERFINDUNGEN VERWALTUNGSGESELLSCHAFT M.B.H."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(10.04.1997)",
+                            "nsol": "E97919330"
+                        },
+                        {
+                            "fsol": "(10.04.1997)",
+                            "nsol": "PCT/EP1997/001800"
+                        },
+                        {
+                            "fsol": "(10.04.1997)",
+                            "nsol": "P9850018"
+                        }
+                    ]
+                },
+                "tieneimg": null,
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "ENTERIC-COATED PHARMACEUTICAL COMPOSITIONS OF MYCOPHENOLATE",
+                    "titu_es": "COMPOSICIONES FARMACEUTICAS DE MICOFENOLATO CON RECUBRIMIENTO ENTERICO."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "LA PRESENTE INVENCION PROPORCIONA UNA COMPOSICION FARMACEUTICA QUE COMPRENDE UNA SAL DE MICOFENOLATO, ESTANDO ADAPTADA LA COMPOSICION PARA LIBERAR EL MICOFENOLATO EN LA PARTE SUPERIOR DEL TRACTO INTESTINAL."
+        },
+        "version": 0
+    },
+    {
+        "_id": "P9602253",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:01.244Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-30T00:01:45.673Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/1996/P9602253.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/64/ES-2126494_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/12/64/ES-2126494_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "X",
+                            "numero": "ES2010929",
+                            "pdf": "/ES/0000/000/02/01/09/ES-2010929_A6.pdf",
+                            "tipo": "A6"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0591077",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "EP0028513",
+                            "tipo": "A1"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4477284",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4409030",
+                            "tipo": "A"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "C04B28/04",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "C04B41/00",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "C04B28/04",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "C04B41/0009",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "C04B28/04",
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "C04B41/0009",
+                                    "oficinageneradora": "EP"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATL1986",
+                "fto4": null,
+                "imgresu": "/Resumen/000/000/0P9/602/P9602253.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "PUERTAS PAULE, JUSTO",
+                            "nain": "ES",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": null,
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(30.09.1999)",
+                                "fpub": "(16.11.1999)",
+                                "npub": "2126494",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/12/64/ES-2126494_B1.pdf",
+                                "tipo": "B1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.03.1999)",
+                            "npub": "2126494",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/12/64/ES-2126494_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "P9602253",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "CTRA. NACIONAL 521 - KM 5, 10010 CACERES",
+                            "nare": "ES",
+                            "orden": "1",
+                            "prov": "10",
+                            "soli": "C.B.A. EXPANSIVOS, S.L."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(24.10.1996)",
+                            "nsol": "P9602253"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "Expanding cement composition used to break rocks of large size and hardened blocks",
+                    "titu_es": "COMPOSICION DE UN CEMENTO EXPANSIVO UTILIZADO PARA ROMPER ROCAS DE GRAN TAMAÑO Y BLOQUES ENDURECIDOS."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_titu": "N"
+            },
+            "resumen": "Composición de un cemento expansivo utilizado para romper rocas de gran tamaño y bloques endurecidos. Dicha composición está constituida por minerales que mezclados con agua en mayor o menor proporción tiene una fuerza de presión inversamente proporcional a la cantidad de agua aportada, formándose una lechada de mortero que aumenta considerablemente su volumen. Esta composición es muy eficaz en la demolición de granitos, rocas y materiales de gran dureza, proporcionando un aumento de volumen lento y controlado que da lugar a la presión necesaria para romper y demoler sin ruidos ni vibraciones las rocas bloques endurecidos."
+        },
+        "version": 0
+    },
+    {
+        "_id": "PCT/US1999/002248",
+        "fechaCrea": {
+            "$date": "2021-07-15T12:39:26.051Z"
+        },
+        "fechaModi": {
+            "$date": "2025-08-28T16:40:42.281Z"
+        },
+        "patente": {
+            "images": [
+                "https://consultas2.oepm.es/imas/patentes/2000/P200050055.pdf"
+            ],
+            "pdfs": [
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/19/29/ES-2192915_B1.pdf",
+                "https://consultas2.oepm.es/pdf/ES/0000/000/02/19/29/ES-2192915_A1.pdf"
+            ],
+            "referencia": {
+                "adiciones": {
+                    "adicion": {
+                        "fspo": null,
+                        "nspo": null
+                    }
+                },
+                "base": "INTERPAT",
+                "certificados": null,
+                "citaciones": {
+                    "citacion": [
+                        {
+                            "categoria": "A",
+                            "numero": "GB228097",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US5458344",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US3146722",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "FR1434667",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US5172793",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4524677",
+                            "tipo": "A"
+                        },
+                        {
+                            "categoria": "A",
+                            "numero": "US4521151",
+                            "tipo": "A"
+                        }
+                    ]
+                },
+                "clasificaciones": {
+                    "claint": {
+                        "clai": {
+                            "item": [
+                                {
+                                    "clasificacion": "F04D29/08",
+                                    "fecha": "(2006.01)"
+                                },
+                                {
+                                    "clasificacion": "F04D29/42",
+                                    "fecha": "(2006.01)"
+                                }
+                            ]
+                        }
+                    },
+                    "cpc": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F04D29/086",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/4286",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/167",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/622",
+                                    "fecha": null,
+                                    "oficinageneradora": "EP"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/086",
+                                    "fecha": null,
+                                    "oficinageneradora": "ES"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/4286",
+                                    "fecha": null,
+                                    "oficinageneradora": "ES"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/086",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/4286",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/622",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/167",
+                                    "fecha": null,
+                                    "oficinageneradora": "US"
+                                }
+                            ]
+                        }
+                    },
+                    "cpcagrupada": {
+                        "cpci": {
+                            "item": [
+                                {
+                                    "clasificacioncpc": "F04D29/086",
+                                    "oficinageneradora": "EP, ES, US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/167",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/622",
+                                    "oficinageneradora": "EP, US"
+                                },
+                                {
+                                    "clasificacioncpc": "F04D29/4286",
+                                    "oficinageneradora": "EP, ES, US"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "divisionales": {
+                    "divisional": {
+                        "fdiv": null,
+                        "ndiv": null
+                    }
+                },
+                "domi": "PATPCT",
+                "fto4": null,
+                "imgresu": "/Resumen/PCT/US1/999/002/PCTUS1999002248.jpg",
+                "inventores": {
+                    "inventor": [
+                        {
+                            "drin": null,
+                            "inve": "HILL, THOMAS, G.",
+                            "nain": "US",
+                            "orden": "1",
+                            "prin": null
+                        }
+                    ]
+                },
+                "mencionesibi": null,
+                "miniaturas": null,
+                "oponentes": null,
+                "prioridades": {
+                    "prioridad": [
+                        "US19980022690 (12.02.1998)"
+                    ]
+                },
+                "publicaciones": {
+                    "otras": {
+                        "publicacion": [
+                            {
+                                "fcon": "(10.01.2005)",
+                                "fpub": "(16.02.2005)",
+                                "npub": "2192915",
+                                "pais": "ES",
+                                "pdf": "/ES/0000/000/02/19/29/ES-2192915_B1.pdf",
+                                "tipo": "B1"
+                            },
+                            {
+                                "fcon": null,
+                                "fpub": "(19.08.1999)",
+                                "npub": "9941530",
+                                "pais": "WO",
+                                "pdf": null,
+                                "tipo": "A1"
+                            }
+                        ]
+                    },
+                    "primera": {
+                        "publicacion": {
+                            "fcon": null,
+                            "fpub": "(16.10.2003)",
+                            "npub": "2192915",
+                            "pais": "ES",
+                            "pdf": "/ES/0000/000/02/19/29/ES-2192915_A1.pdf",
+                            "tipo": "A1"
+                        }
+                    }
+                },
+                "refe": "PCT/US1999/002248",
+                "solicitantes": {
+                    "solicitante": [
+                        {
+                            "dire": "440 WEST 800 SOUTH,SALT LAKE CITY, UT 84110-0209",
+                            "nare": "US",
+                            "orden": "1",
+                            "prov": null,
+                            "soli": "ENVIROTECH PUMPSYSTEMS, INC."
+                        }
+                    ]
+                },
+                "solicitudes": {
+                    "solicitud": [
+                        {
+                            "fsol": "(02.02.1999)",
+                            "nsol": "PCT/US1999/002248"
+                        },
+                        {
+                            "fsol": "(02.02.1999)",
+                            "nsol": "P200050055"
+                        }
+                    ]
+                },
+                "tieneimg": "X",
+                "tienepdf": "X",
+                "tieneresu": "X",
+                "titu": {
+                    "titu_en": "ELASTOMER SEAL FOR ADJUSTABLE SIDE LINERS OF PUMPS",
+                    "titu_es": "OBTURADOR ELASTOMERO PARA REVESTIMIENTOS LATERALES AJUSTABLES DE BOMBAS."
+                },
+                "trad_auto_resu": "N",
+                "trad_auto_resu_es": null,
+                "trad_auto_titu": "N"
+            },
+            "resumen": "Un miembro obturador elastómero (10), para uso en una bomba que tiene revestimientos laterales ajustables (38, 40), está estructurado con una pestaña (74, 76) del tipo de fuelle que proporciona y mantiene una obturación hermética entre los elementos (14) envolventes adyacentes de la bomba, ya que los revestimientos laterales (38, 40) están ajustados axialmente para compensar el desgaste y la abrasión de los revestimientos laterales. El miembro de obturación elastómero (10) proporciona una obturación continua entre los elementos (14) envolventes adyacentes, ya que los revestimientos laterales (38, 40) están ajustados axialmente, prolongando de este modo la vida de servicio de los revestimientos laterales (38, 40) y extendiendo el número de horas que la bomba puede estar funcionando antes de que se necesite una sustitución de los revestimientos laterales y de la obturación."
+        },
+        "version": 0
     }
 ]

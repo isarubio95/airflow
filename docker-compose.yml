@@ -56,6 +56,15 @@ services:
       AIRFLOW_CONN_OPENSEARCH_DEFAULT: "opensearch://${OPENSEARCH_USER}:${OPENSEARCH_PASS}@${OPENSEARCH_HOST}:${OPENSEARCH_PORT}?use_ssl=true&verify_certs=false"
       _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-opensearch"
       S3_BUCKET: ${S3_BUCKET}
+      # Parámetros de rendimiento del scheduler
+      AIRFLOW__SCHEDULER__MAX_THREADS: 8
+      AIRFLOW__SCHEDULER__PARALLELISM: 16
+      AIRFLOW__SCHEDULER__MIN_FILE_PROCESS_INTERVAL: 30
+      # Parámetros de rendimiento del webserver
+      AIRFLOW__WEBSERVER__WORKERS: 4
+      AIRFLOW__WEBSERVER__WEB_SERVER_WORKER_TIMEOUT: 120
+      AIRFLOW__WEBSERVER__WORKER_REFRESH_INTERVAL: 3600
+      AIRFLOW__WEBSERVER__WORKER_REFRESH_BATCH_SIZE: 2
     ports:
       - "8080:8080"
     volumes:

@@ -1,0 +1,16 @@
+software para trabajar con json en linux:
+jq
+
+mostrar una patente determinada por su id:
+jq '.[] | select(._id == "P0360584")' patente_invenes.json
+
+contar número de patentes de un año determinado:
+jq '[.[]
+  | select(
+      ((.patente.referencia.solicitudes.solicitud // [])
+        | (if type=="array" then . else [.] end)
+        | any(.fsol? | tostring | contains("1968"))
+      )
+    )]
+  | length' patente_invenes.json
+
