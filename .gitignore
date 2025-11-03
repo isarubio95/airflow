@@ -6,3 +6,4 @@ data/
 .env
 superset_home/
 patente_invenes.json
+patente_muestra.json
