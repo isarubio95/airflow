@@ -24,17 +24,19 @@ with DAG(
     listen_orders = MongoChangeStreamSensor(
         task_id="wait_for_order_change",
         mongo_conn_id="mongo_default",
-        database="mydb",
-        collection="orders",
+        database="oepm",
+        collection="patente_invenes",
         # Pipeline opcional: filtra tipos de operación/colección/fields
         pipeline=[
-            {"$match": {"operationType": {"$in": ["insert", "update", "replace"]}}},
+            {"$match": {"operationType": {"$in": ["insert", "update", "replace", "delete"]}}},
         ],
         full_document="updateLookup",    # útil para tener documento completo tras update
         max_wait_seconds=3600,           # 1 hora de espera antes de timeout
         # start_at_operation_time=datetime.utcnow(),  # opcional
         # resume_after={"_data": "..."}               # opcional (resume token)
     )
+
+    print(listen_orders.output)
 
     @task
     def process_change(event: dict):
@@ -45,9 +47,10 @@ with DAG(
         doc = event.get("fullDocument")
         doc_key = event.get("documentKey")
         ns = event.get("ns", {})
-        print(f"[ChangeStream] op={op} ns={ns} docKey={doc_key}")
+        logging.info(f"********[ChangeStream] op={op} ns={ns} docKey={doc_key}")
         if doc:
             print("Documento completo:", doc)
         # Aquí harías tu lógica: invalidaciones, ingestas, disparar otros sistemas, etc.
+
 
     process_change(listen_orders.output)
