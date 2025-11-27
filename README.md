@@ -35,8 +35,8 @@ Está diseñado para acercarse lo máximo posible a producción.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_repo.git
-cd tu_repo
+git clone https://github.com/tu_usuario/airflow.git
+cd airflow
 
 # Inicializar Airflow y la base de datos
 docker compose up airflow-init
@@ -105,5 +105,6 @@ cd Airflow-Panoimagen
 # Levantar todo el stack
 docker compose up -d
 ```
+
 
 ---
